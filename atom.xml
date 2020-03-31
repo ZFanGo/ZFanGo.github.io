@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhangfan.github.io</id>
+    <id>https://ZFanGo.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-31T07:33:14.170Z</updated>
+    <updated>2020-03-31T08:00:40.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhangfan.github.io"/>
-    <link rel="self" href="https://zhangfan.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ZFanGo.github.io"/>
+    <link rel="self" href="https://ZFanGo.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://zhangfan.github.io/images/avatar.png</logo>
-    <icon>https://zhangfan.github.io/favicon.ico</icon>
+    <logo>https://ZFanGo.github.io/images/avatar.png</logo>
+    <icon>https://ZFanGo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zhangfan.github.io/post/hello-gridea/</id>
-        <link href="https://zhangfan.github.io/post/hello-gridea/">
+        <id>https://ZFanGo.github.io/post/hello-gridea/</id>
+        <link href="https://ZFanGo.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
